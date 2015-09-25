@@ -1,0 +1,7 @@
+var network_details = {
+    address: 'that place where I put that thing that time',
+    network_name: 'gibson',
+    password_as_spoken: 'hack the planet hack the planet. all lower case and underscore separated. '
+}
+
+module.exports = network_details;

@@ -1,0 +1,13 @@
+{
+  "intents":
+  [
+    {
+      "intent": "WifiDetailsIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

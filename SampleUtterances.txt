@@ -1,0 +1,23 @@
+WifiDetailsIntent for the wifi details
+WifiDetailsIntent how to get on the internet
+WifiDetailsIntent for the wifi login
+WifiDetailsIntent for the details
+WifiDetailsIntent for the connection details
+WifiDetailsIntent how to connect
+WifiDetailsIntent how do I connect
+
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
